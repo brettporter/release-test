@@ -3,7 +3,7 @@
 
   <groupId>test</groupId>
   <artifactId>release-test</artifactId>
-  <version>3.4-SNAPSHOT</version>
+  <version>3.4</version>
   <packaging>jar</packaging>
 
   <name>release-test</name>
@@ -15,7 +15,7 @@
   <scm>
     <connection>scm:git:http://github.com/brettporter/release-test</connection>
     <developerConnection>scm:git:ssh://git@github.com/brettporter/release-test.git</developerConnection>
-    <tag>release-test-3.1</tag>
+    <tag>release-test-3.4</tag>
   </scm>
 
   <dependencies>
