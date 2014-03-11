@@ -33,6 +33,7 @@
         <configuration>
           <goals>install</goals>
           <suppressCommitBeforeTag>true</suppressCommitBeforeTag>
+          <remoteTagging>false</remoteTagging>
         </configuration>
       </plugin>
     </plugins>
